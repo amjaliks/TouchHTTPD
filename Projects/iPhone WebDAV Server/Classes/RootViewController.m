@@ -113,7 +113,7 @@ if (self.HTTPServer == NULL)
 	// theHTTPServer.socketListener.broadcasting = NO;
 		
 	// by default your server as broadcasted as simple HTTP service,
-	// if you want your server to be discovert by WebDAV clients (like Transmit or Cyberduck),
+	// if you want your server to be discovered by WebDAV clients (like Transmit or Cyberduck),
 	// uncomment this line:
 	// theHTTPServer.socketListener.type = "_webdav._tcp.";
 		
